@@ -4,6 +4,7 @@
 @section('content')
 
 <h1>Home</h1>
+<button class="btn btn-success">button</button>
 
 @endsection
 
